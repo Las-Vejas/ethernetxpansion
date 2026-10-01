@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HCTL") (type "KiCad") (uri "C:/Users/serve844/Desktop/ethernetxpansion/footprints/C5377836-kicad/HCTL.pretty") (options "") (descr ""))
+	(lib (name "Hackxpansion") (type "KiCad") (uri "C:/Users/serve844/Desktop/ethernetxpansion/footprints/hackx_kicad/Hackxpansion.pretty") (options "") (descr ""))
+)

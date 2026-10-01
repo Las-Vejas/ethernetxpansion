@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Hackxpansion") (type "KiCad") (uri "C:/Users/serve844/Desktop/ethernetxpansion/footprints/hackx_kicad/Hackxpansion.kicad_sym") (options "") (descr ""))
+	(lib (name "HCTL") (type "KiCad") (uri "C:/Users/serve844/Desktop/ethernetxpansion/footprints/C5377836-kicad/HCTL.kicad_sym") (options "") (descr ""))
+)
